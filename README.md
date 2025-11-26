@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nitin Yadav</h1>
 <h3 align="center">Full-Stack MERN Developer | Next.js | DSA in C++</h3>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-blueviolet" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success" />
+  <img src="https://img.shields.io/badge/Location-India-orange" />
+</p>
+
 ---
 
 ### 🚀 About Me  
@@ -24,22 +31,39 @@ Here are some ideas to get you started:
 - 🧩 Strong foundation in **ReactJS** & **JavaScript**
 - 🎯 Passionate about writing clean, modular, and maintainable code  
 - 🔍 Actively looking for **Full-Stack / MERN Developer Internship opportunities**
+  <p align="center">
+  <img src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=ydvnitin16&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-React.js • Next.js • JavaScript (ES6+) • TypeScript (learning) • Tailwind CSS • HTML5 • CSS3  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
 
 **Backend:**  
-Node.js • Express.js • REST APIs • Socket.io • WebRTC  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=fff)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc) 
 
 **Database:**  
-MongoDB • MySQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=fff)
 
 **Tools & Platforms:**  
-Git • GitHub • Postman • Cloudinary • VS Code • Docker (learning) • CI/CD (GitHub Actions – learning)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=fff)
+![CI/CD](https://img.shields.io/badge/CI/CD-0078D4?logo=visual-studio-code&logoColor=00f)
 
 **Core CS Concepts:**  
 OOPS • DBMS • Operating System • Networking • Authentication & Authorization (JWT, Sessions)  
@@ -76,14 +100,6 @@ Secure blogging platform with JWT auth, encrypted passwords, user/admin moderati
 Feature-rich issue tracking system with RBAC, NextAuth, markdown support, issue assignment, pagination & admin dashboard.  
 **Tech:** Next.js 14, NextAuth, MongoDB, Server Actions  
 🔗 Code (add after upload)
-
----
-
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydvnitin16&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydvnitin16&theme=transparent" height="165"/>
-</p>
 
 ---
 
