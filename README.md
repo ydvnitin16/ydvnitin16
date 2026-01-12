@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nitin Yadav</h1>
-<h3 align="center">Full-Stack MERN Developer | Next.js | DSA in C++</h3>
+<h3 align="center">MERN Stack Developer | Next.js</h3>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-blueviolet" />
+  <img src="https://img.shields.io/badge/Focus-MERNStack%20Development-blueviolet" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success" />
   <img src="https://img.shields.io/badge/Location-India-orange" />
 </p>
@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me  
-- 💻 Full-Stack MERN Developer building scalable and production-ready applications  
-- 🧠 I'm Currently Learning **TypeScript, Docker, and CI/CD**  
+- 💻 MERN Stack Developer building scalable and production-ready applications  
 - 🧩 Strong foundation in **ReactJS** & **JavaScript**
 - 🎯 Passionate about writing clean, modular, and maintainable code  
-- 🔍 Actively looking for **Full-Stack / MERN Developer Internship opportunities**
+- 🔍 Actively looking for ** MERN Developer Internship opportunities**
   <p align="center">
   <img src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=ydvnitin16&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
@@ -60,9 +59,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=fff)
-![CI/CD](https://img.shields.io/badge/CI/CD-0078D4?logo=visual-studio-code&logoColor=00f)
 
 **Core CS Concepts:**  
 OOPS • DBMS • Operating System • Networking • Authentication & Authorization (JWT, Sessions)  
