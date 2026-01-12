@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-MERNStack%20Development-blueviolet" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack%20Development-blueviolet" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success" />
   <img src="https://img.shields.io/badge/Location-India-orange" />
 </p>
